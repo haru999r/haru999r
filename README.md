@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @haru999r
-- 👀 I’m interested in Web3 Development, Backend Development and Product Management to provide innovative solution for people worldwide.
-- 🌱 I’m currently learning DeFi ecosystem.
-- 💞️ I’m looking to collaborate on a company who is welcome to remote jobs.
-- 📫 How to reach me: send me DM at [x.com/haru999r](https://x.com/haru999r) or email at haru.contact.me@gmail.com
-- 😄 Pronouns: Halu
-- ⚡ Fun fact: I got know that developers don't like to say javascript instead of JavaScript when I was 15.
+# Hi, I'm Haru
 
-<!---
-haru999r/haru999r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Web3 fullstack who an enthusiast of Web3.
+
+- 👀 [LinkedIn Account](https://www.linkedin.com/in/haru999r/)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=haru999r&show_icons=true&locale=en&layout=compact)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,solidity,python,php,react,next,mui,nest,laravel,docker,aws,postgresql,mysql,terraform)
